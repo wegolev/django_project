@@ -1,0 +1,18 @@
+#Python 3.12.3
+
+# Основные зависимости Django
+#sgiref==3.8.1
+Django==4.2.21
+#sqlparse==0.5.3
+
+djangorestframework==3.14.0 #(для API)
+djangorestframework-simplejwt==5.2.2 #(JWT аутентификация)
+django-cors-headers==4.3.1 #(CORS для фронтенда)
+Pillow==10.3.0 #(работа с изображениями товаров)
+
+#Vue.js фронтенд-пакеты:
+django-environ==0.11.2
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+drf-yasg==1.21.7
+pillow==10.3.0
